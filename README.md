@@ -20,10 +20,10 @@ _illness_: culturally specific perception of a health problem
     * symptoms
 
 * Elders medical knowledge down through oral traditions (stories, songs, etc.)
-    > Boil was getting bigger.
-    > Her husband told her to bathe.
-    > She got into the water.
-    > She disappeared.
+    > Boil was getting bigger. <br>
+    > Her husband told her to bathe. <br>
+    > She got into the water. <br>
+    > She disappeared. <br>
     > -- Cool story bro
 
 
