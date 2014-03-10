@@ -14,5 +14,17 @@ _Western biomedicine (WBM)_: healing approach using technology
 _disease_: biological health problem (broken bones, viral infection)
 _illness_: culturally specific perception of a health problem
 
+* Basis for classifying health problems:
+    * _vector_: means of transmission
+    * affected body part
+    * symptoms
+
+* Elders medical knowledge down through oral traditions (stories, songs, etc.)
+    > Boil was getting bigger.
+    > Her husband told her to bathe.
+    > She got into the water.
+    > She disappeared.
+    > -- Cool story bro
+
 
 manth = medical anthropologist
