@@ -112,4 +112,71 @@ _structural suffering_: health problems caused by poverty, war, famine, etc.
 
 * Things such as Sufriendo del agua (lack of access to water) causes anxiety because the women will never know if they can cook or wash clothes. In Mexico, 1/3 of people lack the access to clean water
 
+### Healing Ways
+_community healing_: healing with social context. In public domain.
+
+* Non-Western biomedicine tends to use community healing.
+
+```Ruby
+Culture: Ju/'hoansi
+Location: Kalahari Desert, Africa
+
+Uses community energy to heal
+All night healing dance, sit around fire, sing. People that need healing dance around.
+```
+
+* This community healing __works__ on several levels. Strengthens the afflicted mentally
+* Everyone can be a healer in this community
+
+_Humoral healing_: healing by balancing natural elements within the body
+* Food/drugs gives 'heating', 'cooling' properties
+* Humoral healing practiced in Middle East, and much of Asia
+* You have to balance heat and coolness to live healthily
+
+_shamans_: Using spirits to heal
+* Different cultures have different healers
+* Some healers are disappearing because of hospitals and such (i.e. midwives)
+* Criteria for a healer:
+    - Selection
+    - Training
+    - Certification
+    - Professional image
+    - Exception of payment
+_Phytotherapy_: healing using plants
+* Coca masks hunger, gastrointestinal problems, sprains, colds, swelling
+* Minerals are used for healing populars like in water, and mud
+* Radon gases in US mines are also used
+* Pharmaceutical medicine is becoming popular
+
+### Three Theoretical Approaches
+#### Ecological/Epidemiological Approach
+_Ecological/Epidemiological Approach_: how environment interacts with culture to cause health problems
+
+* Researchers should focus on environmental effects
+* Research method tends to be etic and quantitative
+* Work environment might be a factor (rice workers in China)
+* Settled population is more likely than mobile population to get health problems
+* Cities are more crowded and main cause diseases to spread easier
+* Major diseases in the New World because indigenous people were not immune:
+    - Smallpox
+    - Measles
+    - Malaria
+* Fking Europeans dominating the world made a lot of people depressed
+
+_Historical trauma_: intergenerational transfer of emotions due to those European colonialism assholes
+
+#### Interpretivist Approach
+_Interpretivist Apparoch_: health system as systems of meaning
+
+* Examples include rituals, and symbolic performances
+* The idea is to provide meaning for when people are suffering for seemingly meaningless things
+* This is also known as placebo effect in western culture
+
+_placebo effect_: positive result from a healing method that's non-material
+
+* Placebo effects works may be due to confidence of the specialist, act of the prescription and details of the pill
+
+#### Critical Medical Anthropology
+_Critical Medical Anthropology_: study of how social, media and political issues affect the health problems, health system, access to health care, etc.
+
 manth = medical anthropologist
