@@ -179,4 +179,114 @@ _placebo effect_: positive result from a healing method that's non-material
 #### Critical Medical Anthropology
 _Critical Medical Anthropology_: study of how social, media and political issues affect the health problems, health system, access to health care, etc.
 
-manth = medical anthropologist
+_medicalization_: labeling an issue as a medical problem when it actually is not
+
+* This leads to prescription to treat poverty, to treat the inability to provide for one's family
+* Poverty is the primary cause of sickness and death
+* Mo money, mo food
+* Most nutrition programs treat the health issues instead of the cause
+* Medicalization also occurs in poor countries
+* WBM should reply less on technology and take social structures into account. Also WBM should try alternative methods such as message, acupuncture etc.
+* WBM may feel/seem like an assembly to produce the perfect baby, more of a machine model
+* Medical students are trained to accept the machine model in three ways:
+    - Hazing, where med students are sleep deprived and stressed
+    - Cognitive retrogression, where a large amount of info in school overwhelms critical thinking
+    - Dehumanization, erase humanitarian ideals through emphasis on tech
+
+### Globalization and Change
+
+* Healing methods are moving around the world, so are health problems
+* People travel is promoting AIDS/HIV, SARS. Deforestation is promoting malaria
+
+_disease of development_: health problems caused by increased economic development projects
+
+* Building dams and irrigation systems causes schistosomoiasis. The larvae for schistosomoiasis strive in stagnant water
+* Ironically obesity is a problem in developed countries
+
+_medical pluralism_: presence of multiple health systems within a society
+
+* This allows the client to choose and an increase in quality of health but can also cause confusion and conflict in ideas
+
+```Ruby
+Culture: Sherpa
+Location: Nepal
+
+Three ways of healing:
+    Lamas for blessings and humoral healing
+    Shamanic practitioners for divination ceromonies
+    Biomedical practitioners
+```
+* Cultural misunderstanding in healing can occur. I.e. number of meals means different things, ways of healing differ
+
+_Applied medical anthropology_: application of anthro to further goals of health-care providers.
+
+* Anthropologist helped investigate causes of health issues in a culture and also how to remedy the problem
+* Robert Trotter helped US find lead in azarcon which was then banned in Mexico. He also helped come up with a substitute and advertise it in an culturally effective way
+* Anthropologist can help develop more meaningful messages for health educators
+
+## Chapter 6
+
+### 3 Major Points
+* Kinship bonds have different definitions
+* An house-hold/house have different definitions and is changing
+* Marriage/kinship etc is all changing due to globalization and modernization
+
+### How Cultures Create Kinship
+
+_kinship system_: Predominant form of kin relationships
+
+* Blood-based system initially
+* There are various terminologies for kinship relations depending on the culture
+* There are two different types of descents:
+    - Bilineal: counts are both parent's child
+        + Usually foraging and industrialism
+    - Unilineal: counts as only one parent's child
+        + Horticulture, Pastoralism, Agriculture
+        + Patrilineal: only male count as kinship lineage
+        + Matrilineal: only female count as kinship lineage
+
+* Kinship forms through food sharing
+* Kinship can also be formed through adoption. It is now official
+    - Open Adoption: where you know the original parents
+    - Closed Adoption: Vise-versa
+* Fostering: Temporarily living with another family
+* In some cultures children is not a kin until ritually defined (Catholics, Mayans)
+
+#### Marriage
+
+* Marriage have different definitions depending on the culture
+* New marriage between same sex, cross-gender etc is now being accepted
+* Most cultures have incest taboo
+
+_endogamy_: marriage within a particular group
+
+_parallel cousins_: offspring of one's father's brother or one's mother's sister
+
+_cross-cousin_: offspring of one's father's sister or one's mother's brother
+
+* These cousin marriages are favored among some Middle East and northern  Africa people
+
+_exogamy_: marriage outside of a defined social group
+    - marrying up
+    - marrying down
+* Gifts are often given between couples during marriage
+    - Woman to man: dowry
+    - Man to woman: brideprice, or brideservice
+* Monogramy: marriage between 2 people
+* Polygramy: marriage between lots of people (gets intense)
+* Polygyny: man -> multi-women
+* Polyandry: woman -> multi-men, only recorded in Nepal
+
+_nuclear household_: One adult couple with/without kids
+
+_extended household_: More than one adult married couple
+
+* More sex = more happiness
+* Siblings sometimes act as a parent figure
+* Age of marriage is rising
+* People want "white weddings"
+* Cost for grooms is rising. Weddings costing more / brides want more
+* New forms of households:
+    - MUltigenerational: adults kids in parent's homes
+
+
